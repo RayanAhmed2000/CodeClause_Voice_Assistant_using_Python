@@ -1,2 +1,11 @@
-# CodeClause_Flappy_Bird_Game
-A Flappy bird game made on Python
+# Voice Assistant
+- A voice assistant solution made on Python 
+- Library used 
+```
+import speech_recognition as sr 
+import datetime
+import subprocess
+import pywhatkit
+import pyttsx3
+import webbrowser
+```
