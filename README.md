@@ -1,6 +1,6 @@
 # Voice Assistant
 - A voice assistant solution made on Python 
-- Library used 
+- Libraries used 
 ```
 import speech_recognition as sr 
 import datetime
